@@ -90,6 +90,6 @@
 | <img src="이미지주소" width="100"> | <img src="이미지주소" width="100"> | <img src="이미지주소" width="100"> | <img src="이미지주소" width="100"> |
 | :---: | :---: | :---: | :---: |
 | **김태준** | **이민지** | **조수연** | **문준현** |
-| Frontend | Frontend | Backend |
-| [![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jakemoti0n) | [![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/깃허브ID) | [![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/깃허브ID) |
+| UI, Frontend, AI | Frontend, AI | Backend, AI | Backend, DB, AI |
+| [![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jakemoti0n) | [![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/깃허브ID) | [![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/깃허브ID) | [![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/깃허브ID) |
 
