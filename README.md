@@ -1,17 +1,12 @@
 ALICE (All-In-one Consultant Agent)
 정부 R&D 사업계획서 작성을 위한 AI 기반 초격차 컨설팅 에이전트 
-<img width="1628" height="910" alt="image" src="https://github.com/user-attachments/assets/4e916a6e-d23f-432f-8f75-5661e117159d" />
-
+<img width="1901" height="1060" alt="image" src="https://github.com/user-attachments/assets/9960653d-18d5-4566-9c56-4ab9181d8242" />
 
 ## 프로젝트 개요
 
 기획 의도: 아이디어는 있지만 문서화(제안서 작성)에서 막히는 기획자 및 창업자 혹은 직장인들을 위해 AI가 컨설팅과 초안 작성을 도움.
 
 핵심 가치: 단순 텍스트 생성이 아닌, 분석-생성-검증으로 이어지는 체계적인 멀티 에이전트 시스템 제공.
-
-
-화면구성
-<img width="1188" height="425" alt="image" src="https://github.com/user-attachments/assets/de50e99d-c266-428c-bfc9-bb0eb177afdb" />
 
 
 
@@ -21,7 +16,7 @@ ALICE (All-In-one Consultant Agent)
 복잡한 정부 공고문과 양식을 Vision API와 RAG 기술로 정밀 분석하여,
 연구자가 행정 업무 대신 연구 본연의 가치에 집중할 수 있도록 돕는 AI 에이전트 서비스입니다
 
-## 시스템 아키텍쳐
+## 시스템 구조 및 아키텍쳐
 
 ### ERD 설계
 <img width="1802" height="908" alt="image" src="https://github.com/user-attachments/assets/4ad33b3e-38dc-4a14-9a83-340f4cbda7aa" />
@@ -42,6 +37,18 @@ ALICE (All-In-one Consultant Agent)
 ### 정량/정성 검증
 <img width="1829" height="907" alt="image" src="https://github.com/user-attachments/assets/358fefe7-26b9-4ee8-863a-c7b024703a06" />
 
+### 화면구성
+<img width="1782" height="909" alt="image" src="https://github.com/user-attachments/assets/bd8f6f79-0ea2-4711-a6d0-656ca3f3a589" />
+
+## 4. 문제 해결 및 학습 내용 (Troubleshooting)
+
+| 항목 | 내용 |
+| :--- | :--- |
+| **문제 상황** | **AI 학습용 정량적 데이터(정답 셋) 부족** <br> 정부 제안서의 경우 우수 사례 데이터가 공개되지 않거나 보안상 수집이 어려워 학습 데이터가 절대적으로 부족함 |
+| **원인 분석** | 단순 데이터 학습(Fine-tuning)만으로는 정부 지원 사업 특유의 엄격한 규격과 법률적 요건을 충족하는 고품질 제안서 생성이 불가능함 확인 |
+| **해결 방법** | **데이터 부족을 '분석-생성-검증' 아키텍처로 극복** <br> 1. 공고문의 세부 요건을 극도로 상세하게 분석하는 프로세스 구축 <br> 2. 분석 결과를 바탕으로 공고문과 관계법령에 어긋남이 없는지 자가 검증하는 멀티 에이전트 워크플로우 설계 |
+| **최종 검증** | **실무 전문가 검증 완료** <br> 시스템이 도출한 결과물을 바탕으로 **인간 전문가(현업 종사자)를 방문하여 자문 및 검증 진행**, 실무에서 즉시 활용 가능한 수준의 논리 구조와 품질을 갖췄음을 확인 |
+| **배운 점** | 데이터의 양적 한계를 **정교한 아키텍처 설계**와 **현장 기반의 피드백**을 통해 극복하는 실무적 해결 능력을 배양함 |
 
 
 ### 기술스택
