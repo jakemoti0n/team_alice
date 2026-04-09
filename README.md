@@ -1,4 +1,4 @@
-ALICE (All-In-one Consultant Agent)
+# ALICE (All-In-one Consultant Agent)
 정부 R&D 사업계획서 작성을 위한 AI 기반 초격차 컨설팅 에이전트 
 <img width="1901" height="1060" alt="image" src="https://github.com/user-attachments/assets/9960653d-18d5-4566-9c56-4ab9181d8242" />
 
@@ -87,9 +87,9 @@ ALICE (All-In-one Consultant Agent)
 
 ### 팀원 소개
 
-| <img src="이미지주소" width="100"> | <img src="이미지주소" width="100"> | <img src="이미지주소" width="100"> |
-| :---: | :---: | :---: |
-| **김태준** | **이민지** | **모준영** |
+| <img src="이미지주소" width="100"> | <img src="이미지주소" width="100"> | <img src="이미지주소" width="100"> | <img src="이미지주소" width="100"> |
+| :---: | :---: | :---: | :---: |
+| **김태준** | **이민지** | **조수연** | **문준현** |
 | Frontend | Frontend | Backend |
 | [![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jakemoti0n) | [![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/깃허브ID) | [![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/깃허브ID) |
 
