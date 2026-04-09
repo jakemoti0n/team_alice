@@ -64,12 +64,10 @@
 
 전문가 검증 완료: 현업 컨설턴트 자문을 통해 실무 활용 가능성 및 논리 구조 검증
 
-차별성 ( vs LLM)
+차별성 ( vs LLM) 및 추후계획
 <img width="1024" height="531" alt="image" src="https://github.com/user-attachments/assets/a1420eef-7662-456c-b1a1-21125a94881b" />
 <img width="1023" height="525" alt="image" src="https://github.com/user-attachments/assets/2b3df9ac-9a8b-4a1d-9cd6-5040dae49cf9" />
 
-
-추후계획
 <img width="1024" height="500" alt="image" src="https://github.com/user-attachments/assets/688e1815-4ced-4b9b-a87e-685155a4b9fa" />
 <img width="1024" height="519" alt="image" src="https://github.com/user-attachments/assets/97c174c5-16b6-4eef-9cf9-cc122aa323a5" />
 
