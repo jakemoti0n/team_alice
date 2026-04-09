@@ -1,7 +1,18 @@
 ALICE (All-In-one Consultant Agent)
 정부 R&D 사업계획서 작성을 위한 AI 기반 초격차 컨설팅 에이전트 
+<img width="1628" height="910" alt="image" src="https://github.com/user-attachments/assets/4e916a6e-d23f-432f-8f75-5661e117159d" />
+
+
+## 프로젝트 개요
+
+기획 의도: 아이디어는 있지만 문서화(제안서 작성)에서 막히는 기획자 및 창업자 혹은 직장인들을 위해 AI가 컨설팅과 초안 작성을 도움.
+
+핵심 가치: 단순 텍스트 생성이 아닌, 분석-생성-검증으로 이어지는 체계적인 멀티 에이전트 시스템 제공.
+
+
 화면구성
 <img width="1188" height="425" alt="image" src="https://github.com/user-attachments/assets/de50e99d-c266-428c-bfc9-bb0eb177afdb" />
+
 
 
 프로젝트 기간 2025.09.11 ~ 2024.11.11 (14주)
@@ -10,7 +21,30 @@ ALICE (All-In-one Consultant Agent)
 복잡한 정부 공고문과 양식을 Vision API와 RAG 기술로 정밀 분석하여,
 연구자가 행정 업무 대신 연구 본연의 가치에 집중할 수 있도록 돕는 AI 에이전트 서비스입니다
 
-기술스택
+## 시스템 아키텍쳐
+
+### ERD 설계
+<img width="1802" height="908" alt="image" src="https://github.com/user-attachments/assets/4ad33b3e-38dc-4a14-9a83-340f4cbda7aa" />
+
+### 에이전트 아키텍쳐
+<img width="1761" height="979" alt="image" src="https://github.com/user-attachments/assets/2ab0904d-ba8a-4fd0-b8e6-60e5d4173211" />
+
+## 주요 기능 및 시연
+
+### 맞춤형분석
+<img width="1665" height="833" alt="image" src="https://github.com/user-attachments/assets/9e9d1eb2-35f0-4472-a405-3b872c7c2d1d" />
+
+
+### 규격 기반생성
+<img width="1737" height="819" alt="image" src="https://github.com/user-attachments/assets/2afa83e8-6740-4ce6-952a-2cf775c5fe08" />
+
+
+### 정량/정성 검증
+<img width="1829" height="907" alt="image" src="https://github.com/user-attachments/assets/358fefe7-26b9-4ee8-863a-c7b024703a06" />
+
+
+
+### 기술스택
 
 | 구분 | 내용 |
 | :--- | :--- |
